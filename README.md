@@ -18,6 +18,6 @@
 apt update && apt install git python3 -y && git clone https://github.com/IamSboby/fake-mailer && cd fake-mailer && python3 mailer.py
 ```
 
-## [+] Find Me on :
+## [+] Find Me on : 
 [![GitHub](https://img.shields.io/badge/GitHub-IamSboby-181717?style=flat&logo=github)](https://github.com/IamSboby)
 [![Instagram](https://img.shields.io/badge/Instagram-Sboby_-C13584?style=flat&logo=instagram)](https://www.instagram.com/sboby4all)
